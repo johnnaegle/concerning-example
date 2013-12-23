@@ -1,7 +1,7 @@
 concerning-example
 ==================
 
-Demonstrates that you cannot define class methods using the Concerning gem
+Demonstrates that you cannot define class methods using the Concerning gem (https://github.com/37signals/concerning)
 
 Given this class definition:
 
